@@ -8,3 +8,7 @@
 - 인증 : 로그인
 - 인가 : 경로별 접근 권한
 - 회원가입
+
+## 시큐리티 동작 원리
+
+![image](https://github.com/user-attachments/assets/0b70f502-78eb-48e7-88fc-0665afcb9414)
